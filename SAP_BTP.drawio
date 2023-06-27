@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T06:47:22.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7VaKP3dgiNl4ioQSJQLr" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T06:49:18.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5XJNwTVW1k36VWk_mrVe" version="21.5.0" type="github">
   <diagram name="Page-1" id="3BKNnDYn-kKuuyb6RfVF">
     <mxGraphModel dx="1179" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,12 +70,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JP4wlnW67uxcWRiFWRpQ-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JP4wlnW67uxcWRiFWRpQ-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="422" y="353" as="sourcePoint" />
-            <mxPoint x="670" y="354.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JP4wlnW67uxcWRiFWRpQ-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JP4wlnW67uxcWRiFWRpQ-12" target="JP4wlnW67uxcWRiFWRpQ-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="230" as="sourcePoint" />
@@ -132,6 +126,12 @@
         </mxCell>
         <mxCell id="JP4wlnW67uxcWRiFWRpQ-52" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
           <mxGeometry x="660" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JP4wlnW67uxcWRiFWRpQ-14" target="JP4wlnW67uxcWRiFWRpQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="360" as="sourcePoint" />
+            <mxPoint x="451" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
