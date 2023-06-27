@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T06:18:23.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I5tdk8h3myGVQqz4eHZl" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T06:22:07.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ZLX_EdDPu1X3Pyaw-7q" version="21.5.0" type="github">
   <diagram name="Page-1" id="3BKNnDYn-kKuuyb6RfVF">
     <mxGraphModel dx="1179" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JP4wlnW67uxcWRiFWRpQ-37" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="256" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-40" value="SAP BTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-41" value="On-Premise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-42" value="Launchpad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223" y="256" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-43" value="Fiori App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="256" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-44" value="Connectivity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="318" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-45" value="SAP HANA Spatial Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="128" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
