@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T07:29:07.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ei8goTo1_frsuwku4cBY" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:42:49.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VWHFMixy-YezOcDBZ5bd" version="21.5.0" type="github">
   <diagram name="Page-1" id="3BKNnDYn-kKuuyb6RfVF">
     <mxGraphModel dx="1179" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,7 +134,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JP4wlnW67uxcWRiFWRpQ-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="651" y="44" width="166" height="166" as="geometry" />
+          <mxGeometry x="651" y="50" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Third Party&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4wlnW67uxcWRiFWRpQ-57" value="OCR API Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="70" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
